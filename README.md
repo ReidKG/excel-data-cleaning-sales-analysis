@@ -103,6 +103,8 @@ Charts created in Excel:
 
 ## 🔗 How to View
 
+You can view this project in Google Sheets with this link https://docs.google.com/spreadsheets/d/e/2PACX-1vRbktWrQhR_aoqKYNJuM8GHm6-Q8U94CYZV89T-qwX65iy3ZVzSy2wGsxclhZHhSw/pubhtml
+
 1. Download `Ecommerce_Data_Cleaned.xlsx` from this repository.
 2. Open in **Microsoft Excel**.
 3. Navigate to:
@@ -110,7 +112,6 @@ Charts created in Excel:
    - The **PivotTables and charts tab** for interactive analysis exploration.
    - The **README tab inside the Excel file** for in-sheet documentation.
 
-You can view this project in google sheets with this link https://docs.google.com/spreadsheets/d/e/2PACX-1vRbktWrQhR_aoqKYNJuM8GHm6-Q8U94CYZV89T-qwX65iy3ZVzSy2wGsxclhZHhSw/pubhtml
 
 
 ---
