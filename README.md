@@ -112,32 +112,7 @@ You can view this project in Google Sheets with this link https://docs.google.co
    - The **PivotTables and charts tab** for interactive analysis exploration.
    - The **README tab inside the Excel file** for in-sheet documentation.
 
-
-
 ---
 
-## 🤝 Connect
 
-If you have questions about this project or would like to discuss potential opportunities, feel free to connect:
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
-
----
-
-## 🪄 Future Improvements
-
-- Automate parts of the cleaning workflow using Power Query.
-- Add a VBA macro to automate recalculation of TotalPrice.
-- Explore advanced Excel charts for better storytelling.
-- Extend analysis with external datasets for category enrichment.
-
----
-
-## 📜 License
-
-This project is provided for **learning and demonstration purposes**.
-
----
-
-### ⭐ If you find this helpful for your learning, consider starring the repository to support more structured, clear data practice materials for new analysts.
